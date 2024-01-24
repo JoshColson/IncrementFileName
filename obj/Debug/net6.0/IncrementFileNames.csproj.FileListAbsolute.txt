@@ -1,0 +1,30 @@
+C:\Users\Josh\Desktop\IncrementFileNames\bin\Debug\net6.0\IncrementFileNames.exe
+C:\Users\Josh\Desktop\IncrementFileNames\bin\Debug\net6.0\IncrementFileNames.deps.json
+C:\Users\Josh\Desktop\IncrementFileNames\bin\Debug\net6.0\IncrementFileNames.runtimeconfig.json
+C:\Users\Josh\Desktop\IncrementFileNames\bin\Debug\net6.0\IncrementFileNames.dll
+C:\Users\Josh\Desktop\IncrementFileNames\bin\Debug\net6.0\IncrementFileNames.pdb
+C:\Users\Josh\Desktop\IncrementFileNames\obj\Debug\net6.0\IncrementFileNames.csproj.AssemblyReference.cache
+C:\Users\Josh\Desktop\IncrementFileNames\obj\Debug\net6.0\IncrementFileNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh\Desktop\IncrementFileNames\obj\Debug\net6.0\IncrementFileNames.AssemblyInfoInputs.cache
+C:\Users\Josh\Desktop\IncrementFileNames\obj\Debug\net6.0\IncrementFileNames.AssemblyInfo.cs
+C:\Users\Josh\Desktop\IncrementFileNames\obj\Debug\net6.0\IncrementFileNames.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Desktop\IncrementFileNames\obj\Debug\net6.0\IncrementFileNames.dll
+C:\Users\Josh\Desktop\IncrementFileNames\obj\Debug\net6.0\refint\IncrementFileNames.dll
+C:\Users\Josh\Desktop\IncrementFileNames\obj\Debug\net6.0\IncrementFileNames.pdb
+C:\Users\Josh\Desktop\IncrementFileNames\obj\Debug\net6.0\IncrementFileNames.genruntimeconfig.cache
+C:\Users\Josh\Desktop\IncrementFileNames\obj\Debug\net6.0\ref\IncrementFileNames.dll
+C:\Users\Josh\Desktop\FinishedPrograms\Project Folders\IncrementFileNames\bin\Debug\net6.0\IncrementFileNames.exe
+C:\Users\Josh\Desktop\FinishedPrograms\Project Folders\IncrementFileNames\bin\Debug\net6.0\IncrementFileNames.deps.json
+C:\Users\Josh\Desktop\FinishedPrograms\Project Folders\IncrementFileNames\bin\Debug\net6.0\IncrementFileNames.runtimeconfig.json
+C:\Users\Josh\Desktop\FinishedPrograms\Project Folders\IncrementFileNames\bin\Debug\net6.0\IncrementFileNames.dll
+C:\Users\Josh\Desktop\FinishedPrograms\Project Folders\IncrementFileNames\bin\Debug\net6.0\IncrementFileNames.pdb
+C:\Users\Josh\Desktop\FinishedPrograms\Project Folders\IncrementFileNames\obj\Debug\net6.0\IncrementFileNames.csproj.AssemblyReference.cache
+C:\Users\Josh\Desktop\FinishedPrograms\Project Folders\IncrementFileNames\obj\Debug\net6.0\IncrementFileNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh\Desktop\FinishedPrograms\Project Folders\IncrementFileNames\obj\Debug\net6.0\IncrementFileNames.AssemblyInfoInputs.cache
+C:\Users\Josh\Desktop\FinishedPrograms\Project Folders\IncrementFileNames\obj\Debug\net6.0\IncrementFileNames.AssemblyInfo.cs
+C:\Users\Josh\Desktop\FinishedPrograms\Project Folders\IncrementFileNames\obj\Debug\net6.0\IncrementFileNames.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Desktop\FinishedPrograms\Project Folders\IncrementFileNames\obj\Debug\net6.0\IncrementFileNames.dll
+C:\Users\Josh\Desktop\FinishedPrograms\Project Folders\IncrementFileNames\obj\Debug\net6.0\refint\IncrementFileNames.dll
+C:\Users\Josh\Desktop\FinishedPrograms\Project Folders\IncrementFileNames\obj\Debug\net6.0\IncrementFileNames.pdb
+C:\Users\Josh\Desktop\FinishedPrograms\Project Folders\IncrementFileNames\obj\Debug\net6.0\IncrementFileNames.genruntimeconfig.cache
+C:\Users\Josh\Desktop\FinishedPrograms\Project Folders\IncrementFileNames\obj\Debug\net6.0\ref\IncrementFileNames.dll

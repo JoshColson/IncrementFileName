@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "K0xY7NGIYuixIUDBGrlKTGHpljRFNo410p04Pb2caO8hE+vxtdmcXt+lTHD2Enpd5b9N+zd7r4A7oxBSIGWowQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Josh\\Desktop\\FinishedPrograms\\Project Folders\\IncrementFileNames\\IncrementFileNames.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josh\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.11\\microsoft.netcore.app.runtime.win-x86.6.0.11.nupkg.sha512",
+    "C:\\Users\\Josh\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.11\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.11.nupkg.sha512",
+    "C:\\Users\\Josh\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.11\\microsoft.aspnetcore.app.runtime.win-x86.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
